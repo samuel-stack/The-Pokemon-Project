@@ -6,7 +6,7 @@ How am I going to make recommendations?  I want to focus on Type pairings and re
 
 I want to identify pairings that are rare or do not exist and access how they would fit in to the current structure.  To do this I'm going to look at some summary stats that exist for all current pokémon and Identify ranges of these values that recommended type pairings must fall in in order for me to recommend them.
 
-Heres my [medium post](https://medium.com/@sam.stack/whats-that-pok%C3%A9mon-8c838a02f3d8) walking through way too much of the backgroun information on pokémon then coming to the conclusions.
+Heres my [medium post](https://medium.com/@sam.stack/whats-that-pok%C3%A9mon-8c838a02f3d8) walking through way too much of the background information on pokémon then coming to the conclusions.
 
 ### Analysis Process
 
