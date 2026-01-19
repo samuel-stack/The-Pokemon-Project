@@ -1,0 +1,2 @@
+Redo analysis of project as information/assumptions about primary and secondary typing was incorrect.
+Maybe find someway to convert analysis to OSRS?
